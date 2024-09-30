@@ -100,6 +100,7 @@ main {
 
 .button img {
   height: 16px;
+  margin-right: 12px;
 }
 
 .button p {
